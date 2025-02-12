@@ -1,11 +1,11 @@
 ## Treść projektu
 Przedstawiony algorytm realizuje następujące zagadnienia:
 - wczytanie dowolnego grafu skierowanego z pliku tekstowego
-− sprawdzenie, czy wczytany graf jest grafem sprzężonym
-− jeśli graf jest grafem sprzężonym, sprawdzenie, czy jest grafem liniowym
-− wypisanie komunikatu o wyniku powyższego sprawdzenia
-− jeśli graf jest grafem sprzężonym, przekształcenie go w jego graf oryginalny (H)
-− zapisanie grafu wynikowego H do pliku tekstowego w tym samym formacie
+- sprawdzenie, czy wczytany graf jest grafem sprzężonym
+- jeśli graf jest grafem sprzężonym, sprawdzenie, czy jest grafem liniowym
+- wypisanie komunikatu o wyniku powyższego sprawdzenia
+- jeśli graf jest grafem sprzężonym, przekształcenie go w jego graf oryginalny (H)
+- zapisanie grafu wynikowego H do pliku tekstowego w tym samym formacie
 ### Format wejściowy
 Plik z danymi wejściowymi (reprezentacja grafu sprzężonego) został przygotowany w taki
 sposób aby umożliwić proste wprowadzanie istotnych dla programu danych tj. liczba
